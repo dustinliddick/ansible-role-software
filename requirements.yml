@@ -1,0 +1,4 @@
+---
+roles:
+  - name: dustinliddick.bootstrap
+collections:

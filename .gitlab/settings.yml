@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Install or uninstall software on Collegis managed systems.
+  homepage: https://collegiseducation.com
+  topics: software, ansible, molecule, tox, playbook

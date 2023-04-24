@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: dustinliddick
+  role_name: software
+  description: Install or uninstall software on your system.
+  license: Apache-2.0
+  company: none
+  min_ansible_version: "2.12"
+
+  platforms:
+    - name: EL
+      versions:
+        - "8"
+    - name: Fedora
+      versions:
+        - 35
+
+  galaxy_tags:
+    - software
+
+dependencies: []
