@@ -77,12 +77,8 @@ This role has been tested on these [container images](https://hub.docker.com/u/d
 
 |container|tags|
 |---------|----|
-|[Alpine](https://hub.docker.com/repository/docker/dustinliddick/alpine/general)|all|
-|[Debian](https://hub.docker.com/repository/docker/dustinliddick/debian/general)|all|
 |[EL](https://hub.docker.com/repository/docker/dustinliddick/enterpriselinux/general)|8|
 |[Fedora](https://hub.docker.com/repository/docker/dustinliddick/fedora/general)|all|
-|[opensuse](https://hub.docker.com/repository/docker/dustinliddick/opensuse/general)|all|
-|[Ubuntu](https://hub.docker.com/repository/docker/dustinliddick/ubuntu/general)|all|
 
 The minimum version of Ansible required is 2.12, tests have been done to:
 
