@@ -1,0 +1,22 @@
+---
+namespace: dustinliddick
+name: software
+version: 1.0.1
+readme: README.md
+authors:
+  - Dustin Liddick <dustin.liddick@collegiseducation.com>
+description: Install or uninstall software on a VM used at [Collegis Eduation](https://collegiseducation.com/).
+license_file: 'LICENSE'
+tags:
+  - dustinliddick
+  - roles
+  - linux
+  - software
+dependencies:
+  ansible.posix: "*"
+  community.crypto: "*"
+  community.general: "*"
+repository: https://gitlab.collegiseducation.com/dustinliddick/ansible-role-rhc.git
+documentation: https://gitlab.collegiseducation.com/engineering_server_team/documentation.git
+homepage: https://collegiseducation.com
+build_ignore: []
